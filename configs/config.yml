@@ -1,0 +1,6 @@
+port: "8000"
+
+cache:
+  defaultExpiration: "5m"
+  cleanupInterval: "10m"
+  itemDuration: "5m"
